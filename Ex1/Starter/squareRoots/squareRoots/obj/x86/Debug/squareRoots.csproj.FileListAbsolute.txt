@@ -1,0 +1,11 @@
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\MainWindow.baml
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\MainWindow.g.cs
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\App.g.cs
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots_MarkupCompile.cache
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots.g.resources
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots.Properties.Resources.resources
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots.csproj.GenerateResource.Cache
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\bin\Debug\squareRoots.exe
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\bin\Debug\squareRoots.pdb
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots.exe
+E:\Labfiles\Lab 2\Ex1\Starter\squareRoots\squareRoots\obj\x86\Debug\squareRoots.pdb
